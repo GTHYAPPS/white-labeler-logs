@@ -1,0 +1,5 @@
+09:15:50.230 PM (UTC)	Process Starts
+09:15:50.234 PM (UTC)	Reading File 'sample.json'
+09:15:50.235 PM (UTC)	Building For Client 'Test 360 Blue!' On Instance 'local'
+09:15:52.690 PM (UTC)	Process stopped on client and instance confirm prompt!
+09:15:52.691 PM (UTC)	Process Ends
