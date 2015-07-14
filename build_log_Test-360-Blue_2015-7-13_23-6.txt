@@ -1,0 +1,4 @@
+Process Starts: 11:06:57 PM
+11:06:58.261 PM (UTC)	Reading File 'sample.json'
+11:06:58.264 PM (UTC)	Building For Client 'Test 360 Blue!' On Instance 'local'
+11:07:01.425 PM (UTC)	Directory '/Users/jhillis/src/gthyapps/360Blue' Created.
