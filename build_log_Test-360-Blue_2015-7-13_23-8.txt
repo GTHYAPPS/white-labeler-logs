@@ -1,0 +1,6 @@
+Process Starts: 11:08:54 PM
+11:08:55.353 PM (UTC)	Reading File 'sample.json'
+11:08:55.356 PM (UTC)	Building For Client 'Test 360 Blue!' On Instance 'local'
+11:08:57.988 PM (UTC)	Directory '/Users/jhillis/src/gthyapps/360Blue' Created.
+11:08:58.183 PM (UTC)	Repo '360Blue' Already Exists On Organization 'GTHYAPPS'. Unable To Proceeed!
+11:08:58.187 PM (UTC)	Git initialized in '/Users/jhillis/src/gthyapps/360Blue'
